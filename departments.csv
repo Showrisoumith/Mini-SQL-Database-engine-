@@ -1,0 +1,5 @@
+dept_id,dept_name,location,budget
+1,Sales,New York,200000
+2,IT,London,500000
+3,HR,Chicago,150000
+4,Marketing,San Francisco,300000
